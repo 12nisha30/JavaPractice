@@ -1,4 +1,4 @@
-package nirosha.WhileLooping;
+package nirosha.GitPractice;
 
 import java.util.Scanner;
 
