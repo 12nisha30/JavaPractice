@@ -1,4 +1,4 @@
-package nirosha.Practice;
+package nirosha.GitPractice;
 
 import java.util.Scanner;
 
